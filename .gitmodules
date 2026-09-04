@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "essential8"]
+	path = essential8
+	url = https://github.com/thatoneguy006/essential8
 [submodule "ggforestplotR"]
 	path = ggforestplotR
 	url = https://github.com/thatoneguy006/ggforestplotr
